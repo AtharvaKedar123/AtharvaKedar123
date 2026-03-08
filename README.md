@@ -93,6 +93,11 @@ Experienced in:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<p align="center">
+<img src="https://ghchart.rshah.org/Atharvakedar123" alt="GitHub Contribution Chart">
+</p>
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
