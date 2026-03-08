@@ -1,6 +1,22 @@
-# 💫 About Me:
-I am currently working at Infosys<br>Results oriented IT Professional skilled in Python, Java, DSA, SQL, OOP, ML,<br>GIS (QGIS/ArcGIS) and Excel. Experienced in building<br> scalable applications, performing spatial analysis, <br>and solving technical challenges. <br><br>Seeking roles in Python Development,Software Engineering, GIS Analysis, or <br> Data Analytics or the roles which has applications of Java or DSA or <br> Python or SQL or of any combination mentioned abovee
+# 💫 About Me
 
+IT Professional currently working at **Infosys**.
+
+Skilled in **Python, Java, DSA, SQL, OOP, Machine Learning, GIS (QGIS/ArcGIS), and Data Analysis**.
+
+Experienced in:
+• Building scalable applications  
+• Performing spatial data analysis  
+• Developing data-driven solutions  
+• Solving complex algorithmic problems  
+
+🔎 Currently seeking opportunities in:
+
+• Python Development  
+• Software Engineering  
+• Data Analytics  
+• GIS Analysis  
+• Backend Development (Java / Python / SQL)
 
 ## 🌐 Socials
 
