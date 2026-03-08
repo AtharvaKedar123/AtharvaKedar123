@@ -94,9 +94,9 @@ Experienced in:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakedar123&theme=tokyonight">
 </p>
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="left">🔥 GitHub Streak</h2>
 
-<p align="center">
+<p align="left">
 <img src="https://streak-stats.demolab.com?user=Atharvakedar123&theme=tokyonight&hide_border=true"/>
 </p>
 
