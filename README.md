@@ -15,7 +15,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 📘 DSA with Java   ▓▓▓▓▓▓▓▓░░ 80%  
 🐍 DSA with Python ▓▓▓▓▓▓░░░░ 67%  
 
----
+
 
 ## 📂 Projects
 
@@ -27,7 +27,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 | **Plane_Ticket_Booking** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
 | **Planetary_Mineral_Analyzer** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
 
----
+
 
 ## 🎮 Gaming & Hobbies
 
@@ -41,7 +41,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 - Table Tennis 🏓  
 - Beatboxing 🎤
 
----
+
 
 ### 🏆 Certifications & Achievements
 
@@ -55,24 +55,16 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 [![Infosys DBMS HSQL](https://img.shields.io/badge/Infosys-DBMS%20(HSQL)-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_013945746840551424521/1-e5de0402-94aa-47fb-b6b3-0a7278bd70c5.pdf)  
 [![Infosys Unix & Shell](https://img.shields.io/badge/Infosys-Unix%20&%20Shell-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0133765230250803201536/1-e6c63070-1564-4a3b-8383-25873c0dfda1.pdf)
 
----
+
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
 
----
 
-## 📂 Projects
 
-| Project | Language |
-|---------|---------|
-| **StreamHUB_Movie_Shop** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
-| **Crystal_Growth_Simulator** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
-| **Linear Regression & Data Visualization** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
-| **Plane_Ticket_Booking** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
-| **Planetary_Mineral_Analyzer** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=Atharvakedar123&icon=0&color=0)](https://visitcount.itsvg.in)
 
