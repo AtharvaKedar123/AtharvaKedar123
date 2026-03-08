@@ -89,7 +89,7 @@ Experienced in:
 
 <h2 align="left">🐍 Contributions </h2>
 
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
