@@ -2,7 +2,7 @@
 <h3 align="center">Engineer at Infosys | Python | Java | SQL | DSA | GIS Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineer+at+Infosys;Python+%26+Java+Developer;SQL+%26+Database+Enthusiast;Data+Structures+%26+Algorithms;GIS+%7C+Spatial+Data+Analysis;Always+Learning+New+Things&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Engineer+at+Infosys;Python+%26+Java+Developer;SQL+%26+Database+Enthusiast;Data+Structures+%26+Algorithms;GIS+%7C+Spatial+Data+Analysis;Always+Learning+New+Things&center=true&width=700&height=45">
 </p>
 
 
