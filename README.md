@@ -87,6 +87,12 @@ Experienced in:
 [![Infosys DBMS HSQL](https://img.shields.io/badge/Infosys-DBMS%20(HSQL)-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_013945746840551424521/1-e5de0402-94aa-47fb-b6b3-0a7278bd70c5.pdf)  
 [![Infosys Unix & Shell](https://img.shields.io/badge/Infosys-Unix%20&%20Shell-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0133765230250803201536/1-e6c63070-1564-4a3b-8383-25873c0dfda1.pdf)
 
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvakedar123&theme=tokyo-night"/>
+</p>
+
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
