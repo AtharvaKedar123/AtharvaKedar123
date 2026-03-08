@@ -104,11 +104,7 @@ Experienced in:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,vscode"/>
-</p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
