@@ -19,13 +19,13 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 
 ## 📂 Projects
 
-| Project | Language | Stars | Issues | Demo |
-|---------|---------|-------|--------|------|
-| **StreamHUB_Movie_Shop** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) | ⭐ | ❗ | [Demo](https://github.com/Atharvakedar123/StreamHUB_Movie_Shop) |
-| **Crystal_Growth_Simulator** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ⭐ | ❗ | [Demo](https://github.com/Atharvakedar123/Crystal_Growth_Simulator) |
-| **Linear Regression & Data Visualization** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ⭐ | ❗ | [Demo](https://github.com/Atharvakedar123/Linear-Regression-Data-Visualization) |
-| **Plane_Ticket_Booking** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) | ⭐ | ❗ | [Demo](https://github.com/Atharvakedar123/Plane_Ticket_Booking) |
-| **Planetary_Mineral_Analyzer** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | ⭐ | ❗ | [Demo](https://github.com/Atharvakedar123/Planetary_Mineral_Analyzer) |
+| Project | Language |
+|---------|---------|
+| **StreamHUB_Movie_Shop** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
+| **Crystal_Growth_Simulator** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+| **Linear Regression & Data Visualization** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+| **Plane_Ticket_Booking** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
+| **Planetary_Mineral_Analyzer** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 
