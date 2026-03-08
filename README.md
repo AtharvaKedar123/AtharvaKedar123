@@ -10,13 +10,13 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 # 📊 GitHub Stats
 
 <!-- Total contributions + commits stats -->
-![](https://github-readme-stats.vercel.app/api?username=Atharvakedar123&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=24)
+![](https://github-readme-stats.vercel.app/api?username=Atharvakedar123&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=FFDD00&icon_color=00FFAA&text_color=FFFFFF&bg_color=0D1117)
 
 <!-- Streak stats (current + longest) -->
-![](https://github-readme-streak-stats.demolab.com?user=Atharvakedar123&theme=radical&hide_border=true&date_format=M%20j&locale=en)
+![](https://streak-stats.demolab.com?user=Atharvakedar123&theme=radical&hide_border=true&background=0D1117&fire=FFDD00&currStreakLabel=FFFFFF&sideNums=00FFAA&locale=en)
 
 <!-- Top languages used -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvakedar123&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvakedar123&theme=radical&hide_border=true&layout=compact&langs_count=6&title_color=FFDD00&text_color=FFFFFF&bg_color=0D1117&icon_color=00FFAA)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
