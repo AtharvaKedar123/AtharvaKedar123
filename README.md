@@ -68,11 +68,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Atharvakedar123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvakedar123&theme=radical&hide_border=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
