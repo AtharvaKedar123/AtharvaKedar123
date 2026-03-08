@@ -93,6 +93,12 @@ Experienced in:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvakedar123&theme=tokyo-night"/>
 </p>
 
+<h2 align="center">📊 Contribution Details</h2>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakedar123&theme=tokyonight">
+</p>
+
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
