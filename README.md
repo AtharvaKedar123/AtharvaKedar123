@@ -43,7 +43,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 
 
 
-### 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 [![Python Course — Udemy](https://img.shields.io/badge/Udemy-Python%20Course-4b32c3?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4d0dcf86-5c80-4a87-87c1-16860f7ed100/)  
 [![Coursera Python](https://img.shields.io/badge/Coursera-Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/RCHTG6BJVZS9)  
