@@ -14,6 +14,17 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 🗄️ SQL             ▓▓▓▓▓▓▓▓▓░ 90%  
 📘 DSA with Java   ▓▓▓▓▓▓▓▓░░ 80%  
 🐍 DSA with Python ▓▓▓▓▓▓░░░░ 67%  
+### 🎮 Gaming & Hobbies
+
+#### 🕹️ Favorite Games
+- Valorant 🎯  
+- FIFA ⚽  
+- Red Dead Redemption 2 🐎  
+
+#### ⚽ Hobbies & Interests
+- Football ⚽  
+- Table Tennis 🏓  
+- Beatboxing 🎤
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
