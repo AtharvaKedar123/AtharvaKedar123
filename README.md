@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Kedar</h1>
-<h3 align="center">Python Developer | Software Engineer | Data & GIS Enthusiast</h3>
+<h3 align="center">Python | Java | DSA | Data & GIS Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Java+Developer;DSA+Enthusiast;Data+Analytics+Learner;GIS+Analysis+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Enthusiast;Java+&+DSA+Learner;Data+Analytics+Explorer;GIS+Analysis+Enthusiast;Building+Projects+and+Learning+Daily&center=true&width=650&height=45">
 </p>
-
 
 
 ## 💫 About Me
