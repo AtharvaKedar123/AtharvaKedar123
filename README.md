@@ -90,9 +90,6 @@ Experienced in:
 <h2 align="center">📊 GitHub Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakedar123&theme=tokyonight">
-</p>
-
 <img src="https://ghchart.rshah.org/Atharvakedar123" alt="GitHub chart" />
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
