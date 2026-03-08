@@ -62,7 +62,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
