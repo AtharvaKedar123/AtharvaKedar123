@@ -96,15 +96,15 @@ I specialize in building **scalable applications**, performing **spatial analysi
 
 ### 🏆 Certifications & Achievements
 
-[![Python Course — Udemy](https://img.shields.io/badge/Udemy%20Python%20Course‑Certificate‑4b32c3?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4d0dcf86-5c80-4a87-87c1-16860f7ed100/)  
-[![Coursera Python](https://img.shields.io/badge/Coursera‑Python‑0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/RCHTG6BJVZS9)  
-[![Coursera Data Science](https://img.shields.io/badge/Coursera‑Data%20Science‑0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/AA7YJK9A9ECT)  
-[![Coursera Analytics](https://img.shields.io/badge/Coursera‑Analytics‑0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/2V9EQLFHWXXL)  
-[![Python — Infosys](https://img.shields.io/badge/Infosys‑Python‑232F3E?style=for-the-badge&logo=infosys&logoColor=white)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0125409616243425281061/1-55154ce7-26b1-4f82-ad0c-f6b1bc13e852.pdf)  
-[![Python — Infosys](https://img.shields.io/badge/Infosys‑Python‑232F3E?style=for-the-badge&logo=infosys&logoColor=white)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_012734003600908288382/1-c4433bb8-5b1e-4bbc-b8c6-7619a554f234.pdf)  
-[![Java OOP — Infosys](https://img.shields.io/badge/Infosys‑Java%20OOP‑232F3E?style=for-the-badge&logo=infosys&logoColor=white)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0141084870855557120/1-40caa195-fb46-4d0b-b93a-9a92adfa8910.pdf)  
-[![DBMS HSQL — Infosys](https://img.shields.io/badge/Infosys‑DBMS%20(HSQL)‑232F3E?style=for-the-badge&logo=infosys&logoColor=white)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_013945746840551424521/1-e5de0402-94aa-47fb-b6b3-0a7278bd70c5.pdf)  
-[![Unix & Shell — Infosys](https://img.shields.io/badge/Infosys‑Unix%20%26%20Shell‑232F3E?style=for-the-badge&logo=infosys&logoColor=white)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0133765230250803201536/1-e6c63070-1564-4a3b-8383-25873c0dfda1.pdf)
+[![Python Course — Udemy](https://img.shields.io/badge/Udemy-Python%20Course-4b32c3?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4d0dcf86-5c80-4a87-87c1-16860f7ed100/)  
+[![Coursera Python](https://img.shields.io/badge/Coursera-Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/RCHTG6BJVZS9)  
+[![Coursera Data Science](https://img.shields.io/badge/Coursera-Data%20Science-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/AA7YJK9A9ECT)  
+[![Coursera Analytics](https://img.shields.io/badge/Coursera-Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/2V9EQLFHWXXL)  
+[![Infosys Python](https://img.shields.io/badge/Infosys-Python-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0125409616243425281061/1-55154ce7-26b1-4f82-ad0c-f6b1bc13e852.pdf)  
+[![Infosys Python](https://img.shields.io/badge/Infosys-Python-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_012734003600908288382/1-c4433bb8-5b1e-4bbc-b8c6-7619a554f234.pdf)  
+[![Infosys Java OOP](https://img.shields.io/badge/Infosys-Java%20OOP-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0141084870855557120/1-40caa195-fb46-4d0b-b93a-9a92adfa8910.pdf)  
+[![Infosys DBMS HSQL](https://img.shields.io/badge/Infosys-DBMS%20(HSQL)-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_013945746840551424521/1-e5de0402-94aa-47fb-b6b3-0a7278bd70c5.pdf)  
+[![Infosys Unix & Shell](https://img.shields.io/badge/Infosys-Unix%20&%20Shell-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0133765230250803201536/1-e6c63070-1564-4a3b-8383-25873c0dfda1.pdf)
 
 ---
 
