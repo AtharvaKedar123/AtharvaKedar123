@@ -71,6 +71,7 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Atharvakedar123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvakedar123&theme=radical&hide_border=false&layout=compact)
 
 ## ✍️ Random Dev Quote
