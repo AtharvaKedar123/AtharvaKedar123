@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharva Kedar</h1>
-<h3 align="center">Engineer at Infosys | Python | Java | SQL | DSA | GIS Enthusiast</h3>
+<h3 align="center">Software Engineering Enthusiast | Python | Java | SQL | DSA | GIS</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=;Python;Java;SQL+%26+Database+Enthusiast;Data+Structures+%26+Algorithms;GIS+%7C+Spatial+Data+Analysis;Always+Learning+New+Things&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%26+Java+Developer;SQL+%26+Database+Engineering;Data+Structures+%26+Algorithms;GIS+%7C+Spatial+Data+Analysis;Building+Projects+and+Learning+Every+Day&center=true&width=700&height=45">
 </p>
 
 
