@@ -31,12 +31,12 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 
 ## 🎮 Gaming & Hobbies
 
-#### 🕹️ Favorite Games
+### 🕹️ Favorite Games
 - Valorant 🎯  
 - FIFA ⚽  
 - Red Dead Redemption 2 🐎  
 
-#### ⚽ Hobbies & Interests
+### ⚽ Hobbies & Interests
 - Football ⚽  
 - Table Tennis 🏓  
 - Beatboxing 🎤
