@@ -89,7 +89,6 @@ Experienced in:
 
 <h2 align="center">📊 GitHub Contribution Graph</h2>
 
-<p align="center">
 <img src="https://ghchart.rshah.org/Atharvakedar123" alt="GitHub chart" />
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
