@@ -43,11 +43,6 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### 🏆 Certifications & Achievements
 
 [![Python Course — Udemy](https://img.shields.io/badge/Udemy-Python%20Course-4b32c3?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4d0dcf86-5c80-4a87-87c1-16860f7ed100/)  
@@ -64,6 +59,18 @@ I am currently working at Infosys<br>Results oriented IT Professional skilled in
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
+
+---
+
+## 📂 Projects
+
+| Project | Language |
+|---------|---------|
+| **StreamHUB_Movie_Shop** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
+| **Crystal_Growth_Simulator** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+| **Linear Regression & Data Visualization** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+| **Plane_Ticket_Booking** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
+| **Planetary_Mineral_Analyzer** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 
