@@ -93,6 +93,12 @@ Experienced in:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Atharvakedar123&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
