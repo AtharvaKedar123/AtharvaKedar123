@@ -54,7 +54,8 @@ Experienced in:
 
 
 ### 🔷 Real-Time Stock Trading Simulator  
-![Java](https://img.shields.io/badge/Java-OOP-red?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-OOP%20System-D35400?style=for-the-badge&logo=java&logoColor=white)
+![Simulation](https://img.shields.io/badge/System-Real--Time%20Simulation-2C3E50?style=for-the-badge&logo=databricks&logoColor=white)
 
 - Developed a real-time stock trading simulator using Java and OOP principles.
 - Simulated market fluctuations, order execution, and portfolio tracking.
@@ -64,7 +65,8 @@ Experienced in:
 
 
 ### 🌦️ Weather App  
-![Java](https://img.shields.io/badge/Java-Application-blue?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-App%20Development-2980B9?style=for-the-badge&logo=java&logoColor=white)
+![API](https://img.shields.io/badge/API-Real--Time%20Data-27AE60?style=for-the-badge&logo=fastapi&logoColor=white)
 
 - Built a weather application fetching real-time weather data via APIs.
 - Displayed temperature, humidity, and forecast details dynamically.
@@ -74,7 +76,8 @@ Experienced in:
 
 
 ### 🤖 Order Automation Bot (Bitcoin Alert Bot for Telegram)  
-![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bot](https://img.shields.io/badge/Telegram-Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 - Developed a Telegram bot that sends automated Bitcoin price alerts.
 - Integrated external APIs for real-time cryptocurrency tracking.
@@ -84,7 +87,8 @@ Experienced in:
 
 
 ### ✈️ Airline Management System  
-![Python](https://img.shields.io/badge/Python-OOP-green?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-OOP%20System-2ECC71?style=for-the-badge&logo=python&logoColor=white)
+![System Design](https://img.shields.io/badge/System-Management%20App-34495E?style=for-the-badge&logo=airplayaudio&logoColor=white)
 
 - Designed an airline management system using Python OOP concepts.
 - Managed flight schedules, bookings, passengers, and ticketing.
@@ -94,7 +98,8 @@ Experienced in:
 
 
 ### ⚡ LRU Cache Implementation  
-![DSA](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Backend%20Logic-F89820?style=for-the-badge&logo=java&logoColor=white)
 
 - Implemented an efficient Least Recently Used (LRU) cache using Java.
 - Used HashMap + Doubly Linked List for O(1) time complexity operations.
@@ -104,7 +109,8 @@ Experienced in:
 
 
 ### 📊 Inventory Optimization & Demand Forecast Dashboard  
-![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Analytics](https://img.shields.io/badge/Analytics-Business%20Insights-16A085?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 - Built an advanced Power BI dashboard for inventory and demand analysis.
 - Visualized stock levels, demand trends, and category-wise performance.
