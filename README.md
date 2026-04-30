@@ -51,7 +51,7 @@ Experienced in:
 
 ## 🚀 Featured Projects
 
----
+
 
 ### 🔷 Real-Time Stock Trading Simulator  
 ![Java](https://img.shields.io/badge/Java-OOP-red?style=for-the-badge&logo=java&logoColor=white)
