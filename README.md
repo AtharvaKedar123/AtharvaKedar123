@@ -61,7 +61,7 @@ Experienced in:
 - Implemented core concepts like encapsulation, abstraction, and modular design.
 - Designed scalable architecture for handling multiple users and transactions.
 
----
+
 
 ### 🌦️ Weather App  
 ![Java](https://img.shields.io/badge/Java-Application-blue?style=for-the-badge&logo=java&logoColor=white)
@@ -81,7 +81,7 @@ Experienced in:
 - Implemented automation logic for threshold-based alerts.
 - Used asynchronous handling for efficient message delivery.
 
----
+
 
 ### ✈️ Airline Management System  
 ![Python](https://img.shields.io/badge/Python-OOP-green?style=for-the-badge&logo=python&logoColor=white)
@@ -91,7 +91,7 @@ Experienced in:
 - Applied object-oriented design for modular and scalable architecture.
 - Simulated real-world airline operations with structured data handling.
 
----
+
 
 ### ⚡ LRU Cache Implementation  
 ![DSA](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge)
@@ -101,7 +101,7 @@ Experienced in:
 - Optimized memory management and cache eviction strategy.
 - Demonstrates strong understanding of data structures and algorithms.
 
----
+
 
 ### 📊 Inventory Optimization & Demand Forecast Dashboard  
 ![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -111,7 +111,7 @@ Experienced in:
 - Implemented KPIs, slicers, and dynamic filtering for business insights.
 - Focused on data-driven decision making and forecasting.
 
----
+
 
 
 
