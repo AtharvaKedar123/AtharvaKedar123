@@ -71,7 +71,7 @@ Experienced in:
 - Implemented clean UI logic and error handling for API failures.
 - Focused on real-time data integration and user-friendly experience.
 
----
+
 
 ### 🤖 Order Automation Bot (Bitcoin Alert Bot for Telegram)  
 ![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=black)
