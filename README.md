@@ -34,10 +34,10 @@
 + Implemented core concepts like encapsulation, abstraction, and modular design.
 + Designed scalable architecture for handling multiple users and transactions.
 
-### Fraud Detection & Risk Monitoring System
-+ SQL-based analytics for fraud detection
-+ KPI dashboards with anomaly tracking
-+ Business-oriented data insights
+### Inventory Optimization & Demand Forecast Dashboard
++ Built an interactive Power BI dashboard to analyze inventory levels, demand trends, and stock performance across categories.
++ Implemented demand forecasting and KPI tracking to identify stock shortages, overstock risks, and optimize replenishment decisions.
++ Delivered actionable business insights using data visualization, trend analysis, and category-wise performance metrics.
 
 ### LRU Cache Implementation (O(1))
 + HashMap + Doubly Linked List
