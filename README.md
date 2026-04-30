@@ -1,85 +1,83 @@
-# 👋 Hi, I'm Atharva Kedar
+<h1 align="center">Hi 👋, I'm Atharva Kedar</h1>
 
+<h3 align="center">
 🚀 Backend Developer | Python • Java • SQL  
-💡 Building Real-Time Systems, APIs & Data-Driven Applications  
-📍 India  
+💡 Building Real-Time Systems & Scalable Applications
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineering;Real-Time+Systems;System+Design+Enthusiast;Data+Driven+Development&center=true&width=600&height=45">
+</p>
 
-## 🔥 About Me
 
-Software Engineer at Infosys with a strong focus on backend development and system design.
+## 🧠 About Me
 
-I build:
-- Scalable backend systems  
-- Real-time applications using sockets  
-- Data-driven systems using SQL & analytics  
+- Software Engineer at **Infosys**
+- Focused on **Backend Development & System Design**
+- Building **real-time systems, APIs, and data-driven applications**
+- Strong foundation in **DSA, OOP, and problem solving**
 
-Currently focused on:
-- Backend Engineering (Python / Java)  
-- System Design  
-- High-impact real-world projects  
 
----
+## ⚡ Tech Stack
 
-## 🧠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,flask,fastapi,git,linux,powerbi" />
+</p>
 
-**Languages:** Python, Java, SQL  
-**Backend:** Flask, FastAPI (learning Spring Boot)  
-**Database:** MySQL, PostgreSQL  
-**Core Concepts:** OOP, Networking, DSA  
-**Tools:** Git, Power BI  
-
----
 
 ## 🚀 Featured Projects
 
-### 💬 Real-Time Multi-Client Chat System
-- Built a socket-based real-time communication system  
-- Supports multiple concurrent clients  
-- Implements message broadcasting and connection handling  
-- Focus: **Networking + Concurrency + System Design**
+### Real-Time Stock Trading Simulator
++ Developed a real-time stock trading simulator using Java and OOP principles.
++ Simulated market fluctuations, order execution, and portfolio tracking.
++ Implemented core concepts like encapsulation, abstraction, and modular design.
++ Designed scalable architecture for handling multiple users and transactions.
 
----
+### Fraud Detection & Risk Monitoring System
++ SQL-based analytics for fraud detection
++ KPI dashboards with anomaly tracking
++ Business-oriented data insights
 
-### 📊 Fraud Detection & Risk Monitoring System
-- Designed SQL-based analytics system for fraud detection  
-- Built KPI dashboards to track anomalies and trends  
-- Focus: **Data Analysis + Business Impact**
+### LRU Cache Implementation (O(1))
++ HashMap + Doubly Linked List
++ Constant time operations
++ Efficient memory management
 
----
+### Smart Traffic Control System
++ AI-based traffic signal simulation
++ Dynamic traffic handling & priority logic
++ Modular OOP architecture
 
-### ⚡ LRU Cache Implementation (O(1))
-- Implemented using HashMap + Doubly Linked List  
-- Optimized for constant time operations  
-- Focus: **DSA + Performance Optimization**
+### Order Automation Bot 
++ Developed a Telegram bot that sends automated Bitcoin price alerts.
++ Integrated external APIs for real-time cryptocurrency tracking.
++ Implemented automation logic for threshold-based alerts.
++ Used asynchronous handling for efficient message delivery
 
----
 
-### 🚗 Smart Traffic Control System (OOP)
-- Simulated intelligent traffic signal system  
-- Handles dynamic traffic flow & priority logic  
-- Focus: **OOP + System Modeling**
+## GitHub Focus
++ Building real-world backend systems
++ Writing clean and scalable code
++ Improving system design thinking
 
----
 
-## 📈 GitHub Focus
+## Current Goals
++ Build production-level backend systems
++ Master system design
++ Strengthen DSA for interviews
 
-- Building real-world backend systems  
-- Writing clean, structured code  
-- Improving system design skills  
 
----
+## GitHub Stats
+p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakedar123&theme=tokyonight"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Atharvakedar123&theme=tokyonight&hide_border=true"/> </p>
 
-## 🎯 Current Goals
 
-- Build production-level backend projects  
-- Learn scalable system design  
-- Strengthen problem-solving (DSA)
+## Connect With Me
+<p align="center"> <a href="mailto:atharva.dkedar@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/atharva-kedar-963439259/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"> </a> </p> ```
 
----
 
-## 📫 Contact
 
-- 📧 Email: atharva.dkedar@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/atharva-kedar-963439259/  
+
+
+
+
+
