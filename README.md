@@ -49,15 +49,69 @@ Experienced in:
 
 
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-| Project | Language |
-|---------|---------|
-| **StreamHUB_Movie_Shop** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
-| **Crystal_Growth_Simulator** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
-| **Linear Regression & Data Visualization** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
-| **Plane_Ticket_Booking** | ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) |
-| **Planetary_Mineral_Analyzer** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+---
+
+### 🔷 Real-Time Stock Trading Simulator  
+![Java](https://img.shields.io/badge/Java-OOP-red?style=for-the-badge&logo=java&logoColor=white)
+
+- Developed a real-time stock trading simulator using Java and OOP principles.
+- Simulated market fluctuations, order execution, and portfolio tracking.
+- Implemented core concepts like encapsulation, abstraction, and modular design.
+- Designed scalable architecture for handling multiple users and transactions.
+
+---
+
+### 🌦️ Weather App  
+![Java](https://img.shields.io/badge/Java-Application-blue?style=for-the-badge&logo=java&logoColor=white)
+
+- Built a weather application fetching real-time weather data via APIs.
+- Displayed temperature, humidity, and forecast details dynamically.
+- Implemented clean UI logic and error handling for API failures.
+- Focused on real-time data integration and user-friendly experience.
+
+---
+
+### 🤖 Order Automation Bot (Bitcoin Alert Bot for Telegram)  
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=black)
+
+- Developed a Telegram bot that sends automated Bitcoin price alerts.
+- Integrated external APIs for real-time cryptocurrency tracking.
+- Implemented automation logic for threshold-based alerts.
+- Used asynchronous handling for efficient message delivery.
+
+---
+
+### ✈️ Airline Management System  
+![Python](https://img.shields.io/badge/Python-OOP-green?style=for-the-badge&logo=python&logoColor=white)
+
+- Designed an airline management system using Python OOP concepts.
+- Managed flight schedules, bookings, passengers, and ticketing.
+- Applied object-oriented design for modular and scalable architecture.
+- Simulated real-world airline operations with structured data handling.
+
+---
+
+### ⚡ LRU Cache Implementation  
+![DSA](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge)
+
+- Implemented an efficient Least Recently Used (LRU) cache using Java.
+- Used HashMap + Doubly Linked List for O(1) time complexity operations.
+- Optimized memory management and cache eviction strategy.
+- Demonstrates strong understanding of data structures and algorithms.
+
+---
+
+### 📊 Inventory Optimization & Demand Forecast Dashboard  
+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
+
+- Built an advanced Power BI dashboard for inventory and demand analysis.
+- Visualized stock levels, demand trends, and category-wise performance.
+- Implemented KPIs, slicers, and dynamic filtering for business insights.
+- Focused on data-driven decision making and forecasting.
+
+---
 
 
 
