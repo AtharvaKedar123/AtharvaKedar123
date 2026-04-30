@@ -1,175 +1,85 @@
-<h1 align="center">Hi 👋, I'm Atharva Kedar</h1>
-<h3 align="center">Software Engineering Enthusiast | Python | Java | SQL | DSA | GIS</h3>
+# 👋 Hi, I'm Atharva Kedar
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%26+Java+Developer;SQL+%26+Database+Engineering;Data+Structures+%26+Algorithms;GIS+%7C+Spatial+Data+Analysis;Building+Projects+and+Learning+Every+Day&center=true&width=700&height=45">
-</p>
+🚀 Backend Developer | Python • Java • SQL  
+💡 Building Real-Time Systems, APIs & Data-Driven Applications  
+📍 India  
 
+---
 
-## 💫 About Me
+## 🔥 About Me
 
-IT Professional currently working at **Infosys**.
+Software Engineer at Infosys with a strong focus on backend development and system design.
 
-Skilled in **Python, Java, DSA, SQL, OOP, Machine Learning, GIS (QGIS/ArcGIS), and Data Analysis**.
+I build:
+- Scalable backend systems  
+- Real-time applications using sockets  
+- Data-driven systems using SQL & analytics  
 
-Experienced in:
-• Building scalable applications  
-• Performing spatial data analysis  
-• Developing data-driven solutions  
-• Solving complex algorithmic problems  
+Currently focused on:
+- Backend Engineering (Python / Java)  
+- System Design  
+- High-impact real-world projects  
 
-🔎 Currently seeking opportunities in:
+---
 
-• Python Development  
-• Software Engineering  
-• Data Analytics  
-• GIS Analysis  
-• Backend Development (Java / Python / SQL)
+## 🧠 Tech Stack
 
-## 🌐 Socials
+**Languages:** Python, Java, SQL  
+**Backend:** Flask, FastAPI (learning Spring Boot)  
+**Database:** MySQL, PostgreSQL  
+**Core Concepts:** OOP, Networking, DSA  
+**Tools:** Git, Power BI  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kedar_beats)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/athukedar/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Atharva-Kedar-3)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Atharvakedar/)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32118601)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Pon1Shard)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)![Horilla](https://img.shields.io/badge/Horilla-CRM-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIGNsYXNzPSJiaSBiaS1ncmFwaC11cCIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNMC41IDBBOC4wMDUgOC4wMDUgMCAwIDAgMCAwLjV2MTVhLjUuNSAwIDAgMCAxIDBoMTVhLjUuNSAwIDAgMCAwLTF2LTE1QTEuNSAxLjUgMCAwIDAgMTUuNSAwaC0xNUFBLjUgLjUgMCAwIDAgMC41IDB6bTEuNSAydjExaDExVjJIMnoiLz48cGF0aCBkPSJNMiA5LjVsMi41LTIuNSAybDIuNS0yLjUgMy41IDMuNS0xIDEgLTIuNS0yLjUtMi41IDIuNS0yLTIgMi41LTIuNS0xLTF6Ii8+PC9zdmc+&logoColor=white)
-## 🔧 Skills & Proficiency
-
-🐍 Python          ▓▓▓▓▓▓▓▓░░ 80%  
-☕ Java            ▓▓▓▓▓▓▓░░░ 77%  
-🗄️ SQL             ▓▓▓▓▓▓▓▓▓░ 90%  
-📘 DSA with Java   ▓▓▓▓▓▓▓▓░░ 80%  
-🐍 DSA with Python ▓▓▓▓▓▓░░░░ 67%  
-
-
+---
 
 ## 🚀 Featured Projects
 
+### 💬 Real-Time Multi-Client Chat System
+- Built a socket-based real-time communication system  
+- Supports multiple concurrent clients  
+- Implements message broadcasting and connection handling  
+- Focus: **Networking + Concurrency + System Design**
 
+---
 
-### 🔷 Real-Time Stock Trading Simulator  
-![Java](https://img.shields.io/badge/Java-OOP%20System-D35400?style=for-the-badge&logo=java&logoColor=white)
-![Simulation](https://img.shields.io/badge/System-Real--Time%20Simulation-2C3E50?style=for-the-badge&logo=databricks&logoColor=white)
+### 📊 Fraud Detection & Risk Monitoring System
+- Designed SQL-based analytics system for fraud detection  
+- Built KPI dashboards to track anomalies and trends  
+- Focus: **Data Analysis + Business Impact**
 
-- Developed a real-time stock trading simulator using Java and OOP principles.
-- Simulated market fluctuations, order execution, and portfolio tracking.
-- Implemented core concepts like encapsulation, abstraction, and modular design.
-- Designed scalable architecture for handling multiple users and transactions.
+---
 
+### ⚡ LRU Cache Implementation (O(1))
+- Implemented using HashMap + Doubly Linked List  
+- Optimized for constant time operations  
+- Focus: **DSA + Performance Optimization**
 
+---
 
-### 🌦️ Weather App  
-![Java](https://img.shields.io/badge/Java-App%20Development-2980B9?style=for-the-badge&logo=java&logoColor=white)
-![API](https://img.shields.io/badge/API-Real--Time%20Data-27AE60?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🚗 Smart Traffic Control System (OOP)
+- Simulated intelligent traffic signal system  
+- Handles dynamic traffic flow & priority logic  
+- Focus: **OOP + System Modeling**
 
-- Built a weather application fetching real-time weather data via APIs.
-- Displayed temperature, humidity, and forecast details dynamically.
-- Implemented clean UI logic and error handling for API failures.
-- Focused on real-time data integration and user-friendly experience.
+---
 
+## 📈 GitHub Focus
 
+- Building real-world backend systems  
+- Writing clean, structured code  
+- Improving system design skills  
 
-### 🤖 Order Automation Bot (Bitcoin Alert Bot for Telegram)  
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bot](https://img.shields.io/badge/Telegram-Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+---
 
-- Developed a Telegram bot that sends automated Bitcoin price alerts.
-- Integrated external APIs for real-time cryptocurrency tracking.
-- Implemented automation logic for threshold-based alerts.
-- Used asynchronous handling for efficient message delivery.
+## 🎯 Current Goals
 
+- Build production-level backend projects  
+- Learn scalable system design  
+- Strengthen problem-solving (DSA)
 
+---
 
-### ✈️ Airline Management System  
-![Python](https://img.shields.io/badge/Python-OOP%20System-2ECC71?style=for-the-badge&logo=python&logoColor=white)
-![System Design](https://img.shields.io/badge/System-Management%20App-34495E?style=for-the-badge&logo=airplayaudio&logoColor=white)
+## 📫 Contact
 
-- Designed an airline management system using Python OOP concepts.
-- Managed flight schedules, bookings, passengers, and ticketing.
-- Applied object-oriented design for modular and scalable architecture.
-- Simulated real-world airline operations with structured data handling.
-
-
-
-### ⚡ LRU Cache Implementation  
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Backend%20Logic-F89820?style=for-the-badge&logo=java&logoColor=white)
-
-- Implemented an efficient Least Recently Used (LRU) cache using Java.
-- Used HashMap + Doubly Linked List for O(1) time complexity operations.
-- Optimized memory management and cache eviction strategy.
-- Demonstrates strong understanding of data structures and algorithms.
-
-
-
-### 📊 Inventory Optimization & Demand Forecast Dashboard  
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-Business%20Insights-16A085?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-- Built an advanced Power BI dashboard for inventory and demand analysis.
-- Visualized stock levels, demand trends, and category-wise performance.
-- Implemented KPIs, slicers, and dynamic filtering for business insights.
-- Focused on data-driven decision making and forecasting.
-
-
-
-
-
-## 🎮 Gaming & Hobbies
-
-### 🕹️ Favorite Games
-- Valorant 🎯  
-- FIFA ⚽  
-- Red Dead Redemption 2 🐎  
-
-### ⚽ Hobbies & Interests
-- Football ⚽  
-- Table Tennis 🏓  
-- Beatboxing 🎤
-
-
-
-## 🏆 Certifications & Achievements
-
-[![Python Course — Udemy](https://img.shields.io/badge/Udemy-Python%20Course-4b32c3?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4d0dcf86-5c80-4a87-87c1-16860f7ed100/)  
-[![Coursera Python](https://img.shields.io/badge/Coursera-Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/RCHTG6BJVZS9)  
-[![Coursera Data Science](https://img.shields.io/badge/Coursera-Data%20Science-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/AA7YJK9A9ECT)  
-[![Coursera Analytics](https://img.shields.io/badge/Coursera-Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/2V9EQLFHWXXL)  
-[![Infosys Python](https://img.shields.io/badge/Infosys-Python-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0125409616243425281061/1-55154ce7-26b1-4f82-ad0c-f6b1bc13e852.pdf)  
-[![Infosys Python](https://img.shields.io/badge/Infosys-Python-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_012734003600908288382/1-c4433bb8-5b1e-4bbc-b8c6-7619a554f234.pdf)  
-[![Infosys Java OOP](https://img.shields.io/badge/Infosys-Java%20OOP-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0141084870855557120/1-40caa195-fb46-4d0b-b93a-9a92adfa8910.pdf)  
-[![Infosys DBMS HSQL](https://img.shields.io/badge/Infosys-DBMS%20(HSQL)-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_013945746840551424521/1-e5de0402-94aa-47fb-b6b3-0a7278bd70c5.pdf)  
-[![Infosys Unix & Shell](https://img.shields.io/badge/Infosys-Unix%20&%20Shell-232F3E?style=for-the-badge)](https://lex.infosysapps.com/public-assets/Infosys/cert/lex_auth_0133765230250803201536/1-e6c63070-1564-4a3b-8383-25873c0dfda1.pdf)
-
-
-<h2 align="left">📊 Contribution Details</h2>
-
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharvakedar123&theme=tokyonight">
-</p>
-
-<h2 align="left">🔥 GitHub Streak</h2>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=Atharvakedar123&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.dkedar@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kedar-963439259/)
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-[![](https://visitcount.itsvg.in/api?id=Atharvakedar123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📧 Email: atharva.dkedar@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/atharva-kedar-963439259/  
