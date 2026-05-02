@@ -83,6 +83,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaKedar123&theme=tokyonight">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaKedar123&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 
 ## Connect With Me
