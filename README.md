@@ -66,6 +66,12 @@
 + Implemented automation logic for threshold-based alerts.
 + Used asynchronous handling for efficient message delivery
 
+### [Cybersecurity Incident Tracking System](https://github.com/AtharvaKedar123/SQL_Projects/tree/main/Cybersecurity%20Incident%20Tracking%20System)
++ Designed a SQL-based cybersecurity incident tracking system to monitor security threats, affected systems, and incident severity.
++ Created relational tables for incidents, threat types, analysts, affected systems, assignments, and resolution reports.
++ Wrote SQL queries to analyze high-severity incidents, unresolved cases, affected systems, and analyst workload.
++ Built the project to demonstrate real-world database design, incident monitoring, and security analytics using SQL.
+
 
 ## GitHub Focus
 + Building real-world backend systems
