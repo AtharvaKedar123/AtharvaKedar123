@@ -39,13 +39,13 @@
 
 ## 🚀 Featured Projects
 
-### Real-Time Stock Trading Simulator
+### Real-Time Stock Trading Simulator (https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
 + Developed a real-time stock trading simulator using Java and OOP principles.
 + Simulated market fluctuations, order execution, and portfolio tracking.
 + Implemented core concepts like encapsulation, abstraction, and modular design.
 + Designed scalable architecture for handling multiple users and transactions.
 
-### Inventory Optimization & Demand Forecast Dashboard
+### Inventory Optimization & Demand Forecast Dashboard (https://github.com/AtharvaKedar123/PowerBi_Dashboards/tree/main/Inventory%20Optimization%20%26%20Demand%20Forecast%20Dashboard)
 + Built an interactive Power BI dashboard to analyze inventory levels, demand trends, and stock performance across categories.
 + Implemented demand forecasting and KPI tracking to identify stock shortages, overstock risks, and optimize replenishment decisions.
 + Delivered actionable business insights using data visualization, trend analysis, and category-wise performance metrics.
