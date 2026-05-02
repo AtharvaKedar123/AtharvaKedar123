@@ -79,7 +79,6 @@
 
 
 ## Connect With Me
-## Connect With Me
 
 <p align="center">
   <a href="mailto:atharva.dkedar@gmail.com">
