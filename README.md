@@ -10,6 +10,17 @@
 </p>
 
 
+## Quick Navigation
+
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [GitHub Focus](#github-focus)
+- [Current Goals](#current-goals)
+- [GitHub Stats](#github-stats)
+- [Connect With Me](#connect-with-me)
+
+
 ## 🧠 About Me
 
 - Software Engineer at **Infosys**
@@ -82,15 +93,15 @@
 
 <p align="center">
   <a href="mailto:atharva.dkedar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/atharva-kedar-963439259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://raw.githubusercontent.com/AtharvaKedar123/atharvakedar123.github.io/main/Atharva_Kedar_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    <img src="https://img.shields.io/badge/RESUME-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
