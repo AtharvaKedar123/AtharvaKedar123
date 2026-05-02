@@ -80,11 +80,17 @@
 
 
 ## GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaKedar123&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaKedar123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaKedar123&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AtharvaKedar123&theme=github-dark-blue&hide_border=true" />
 </p>
 
 
