@@ -78,11 +78,7 @@
 - Writing **clean, scalable, production-ready code**
 - Improving **system design thinking**
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtharvaKedar123/AtharvaKedar123/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ## 🚀 Current Goals
 - Build **production-level backend systems**
