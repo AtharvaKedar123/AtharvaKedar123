@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineering;Real-Time+Systems;System+Design+Enthusiast;Data+Driven+Development&center=true&width=600&height=45">
 </p>
 
----
+
 
 ## 🧠 About Me
 
@@ -19,7 +19,7 @@
 - Building **real-time systems, APIs, and data-driven applications**
 - Strong foundation in **DSA, OOP, and scalable architecture**
 
----
+
 
 ## ⚡ Tech Stack
 
@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,git,github,linux,docker,postman,powerbi&perline=8" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -36,56 +36,56 @@
 - Simulates **market fluctuations and transaction handling**
 - Built using **modular OOP architecture for scalability**
 
----
+
 
 ### 📊 [Inventory Optimization & Demand Forecast Dashboard](https://github.com/AtharvaKedar123/PowerBi_Dashboards/tree/main/Inventory%20Optimization%20%26%20Demand%20Forecast%20Dashboard)
 - Built an interactive **Power BI dashboard for demand forecasting**
 - Identifies **stock shortages, overstock risks, and trends**
 - Delivered **actionable business insights through KPIs & analytics**
 
----
+
 
 ### ⚡ [LRU Cache Implementation O(1)](https://github.com/AtharvaKedar123/Data_structure_And_Algorithms_With_JAVA/tree/main/LRU%20Cache%20Implementation)
 - Implemented **O(1) cache operations**
 - Used **HashMap + Doubly Linked List**
 - Demonstrates strong **DSA and optimization skills**
 
----
+
 
 ### 🚦 [Smart Traffic Control System](https://github.com/AtharvaKedar123/Python_Programming_Projects_OOP_Edition/tree/master/Smart_Traffic_System_OOP)
 - Simulates **dynamic traffic signal control**
 - Handles **vehicle density & priority logic**
 - Designed using **modular OOP system design**
 
----
+
 
 ### 🤖 [Order Automation Bot](https://github.com/AtharvaKedar123/Python_Programming_Projects/tree/master/Day%20098%20%E2%80%93%20Order%20Automation%20Bot%20(Bitcoin%20Alert%20Bot%20for%20Telegram))
 - Built a **Telegram bot for real-time Bitcoin price alerts**
 - Integrated **external APIs for live tracking**
 - Implemented **threshold-based automation logic**
 
----
+
 
 ### 🛡️ [Cybersecurity Incident Tracking System](https://github.com/AtharvaKedar123/SQL_Projects/tree/main/Cybersecurity%20Incident%20Tracking%20System)
 - Designed a **relational database system for incident tracking**
 - Analyzed **threat severity, system impact, and resolution status**
 - Built to demonstrate **real-world SQL design & analytics**
 
----
+
 
 ## 🎯 GitHub Focus
 - Building **real-world backend systems**
 - Writing **clean, scalable, production-ready code**
 - Improving **system design thinking**
 
----
+
 
 ## 🚀 Current Goals
 - Build **production-level backend systems**
 - Master **system design**
 - Strengthen **DSA for interviews**
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -93,7 +93,7 @@
   <img src="https://streak-stats.demolab.com?user=AtharvaKedar123&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+
 
 ## 📫 Connect With Me
 
