@@ -84,10 +84,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaKedar123&theme=tokyonight">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharvakedar123&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 ## Connect With Me
 
