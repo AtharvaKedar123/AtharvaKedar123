@@ -1,143 +1,112 @@
-<div align="center">
+<br>
+<h1 align="center">Hi 👋, I'm Atharva Kedar</h1>
 
-# 👋 Hi, I'm Atharva Kedar
+<h3 align="center">
+🚀 Backend Developer | Java • Python • SQL  
+💡 Building Real-Time Systems & Scalable Applications
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%E2%80%A2+Python+%E2%80%A2+SQL;Data+Analytics+%26+Automation+Enthusiast;Building+Real-World+Projects" />
-
-</div>
-
----
-
-## 🔥 About Me
-
-- 💻 Skilled in **Java, Python, SQL, OOP & DSA**
-- ⚙️ Building **backend systems, automation tools, and data-driven solutions**
-- 📊 Creating interactive dashboards using **Power BI**
-- 🎯 Focused on **scalable systems, clean code, and problem-solving**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineering;Real-Time+Systems;System+Design+Enthusiast;Data+Driven+Development&center=true&width=600&height=45">
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 About Me
 
-<div align="center">
+- Software Engineer at **Infosys**
+- Focused on **Backend Development & System Design**
+- Building **real-time systems, APIs, and data-driven applications**
+- Strong foundation in **DSA, OOP, and scalable architecture**
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,github,git,linux,html,css" />
+---
 
-<br><br>
+## ⚡ Tech Stack
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-16A34A?style=for-the-badge"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,git,github,linux,docker,postman,powerbi&perline=8" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🔥 [Real-Time Stock Trading Simulator](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
+- Designed a real-time trading simulator with **portfolio & order management**
+- Simulates **market fluctuations and transaction handling**
+- Built using **modular OOP architecture for scalability**
 
-### 🟢 Real-Time Stock Trading Simulator
+---
 
-**Tech:** Java, OOP  
+### 📊 [Inventory Optimization & Demand Forecast Dashboard](https://github.com/AtharvaKedar123/PowerBi_Dashboards/tree/main/Inventory%20Optimization%20%26%20Demand%20Forecast%20Dashboard)
+- Built an interactive **Power BI dashboard for demand forecasting**
+- Identifies **stock shortages, overstock risks, and trends**
+- Delivered **actionable business insights through KPIs & analytics**
 
-- Simulates real-time stock trading  
-- Handles portfolio and order management  
-- Demonstrates strong OOP design  
+---
 
-[🔗 View Project](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
+### ⚡ [LRU Cache Implementation O(1)](https://github.com/AtharvaKedar123/Data_structure_And_Algorithms_With_JAVA/tree/main/LRU%20Cache%20Implementation)
+- Implemented **O(1) cache operations**
+- Used **HashMap + Doubly Linked List**
+- Demonstrates strong **DSA and optimization skills**
 
-</td>
-<td width="50%">
+---
 
-### 🟡 Order Automation Bot
+### 🚦 [Smart Traffic Control System](https://github.com/AtharvaKedar123/Python_Programming_Projects_OOP_Edition/tree/master/Smart_Traffic_System_OOP)
+- Simulates **dynamic traffic signal control**
+- Handles **vehicle density & priority logic**
+- Designed using **modular OOP system design**
 
-**Tech:** Python, Automation, API  
+---
 
-- Telegram bot for Bitcoin price alerts  
-- Uses external APIs for real-time crypto tracking  
-- Sends threshold-based automated alerts  
+### 🤖 [Order Automation Bot](https://github.com/AtharvaKedar123/Python_Programming_Projects/tree/master/Day%20098%20%E2%80%93%20Order%20Automation%20Bot%20(Bitcoin%20Alert%20Bot%20for%20Telegram))
+- Built a **Telegram bot for real-time Bitcoin price alerts**
+- Integrated **external APIs for live tracking**
+- Implemented **threshold-based automation logic**
 
-[🔗 View Project](https://github.com/AtharvaKedar123/Python-Projects/tree/main/Order%20Automation%20Bot)
+---
 
-</td>
-</tr>
+### 🛡️ [Cybersecurity Incident Tracking System](https://github.com/AtharvaKedar123/SQL_Projects/tree/main/Cybersecurity%20Incident%20Tracking%20System)
+- Designed a **relational database system for incident tracking**
+- Analyzed **threat severity, system impact, and resolution status**
+- Built to demonstrate **real-world SQL design & analytics**
 
-<tr>
-<td width="50%">
+---
 
-### 🔵 Inventory Optimization Dashboard
+## 🎯 GitHub Focus
+- Building **real-world backend systems**
+- Writing **clean, scalable, production-ready code**
+- Improving **system design thinking**
 
-**Tech:** Power BI  
+---
 
-- Tracks stock levels and demand patterns  
-- Highlights inventory risks and trends  
-- Provides interactive business insights  
-
-[🔗 View Project](https://github.com/AtharvaKedar123/PowerBi_Dashboards/tree/main/Inventory%20Optimization%20%26%20Demand%20Forecast%20Dashboard)
-
-</td>
-<td width="50%">
-
-### 🔴 LRU Cache Implementation
-
-**Tech:** Java, DSA  
-
-- Implements LRU Cache in O(1) time  
-- Uses HashMap + Doubly Linked List  
-- Demonstrates strong DSA concepts  
-
-[🔗 View Project](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/LRU_Cache_Implementation)
-
-</td>
-</tr>
-</table>
+## 🚀 Current Goals
+- Build **production-level backend systems**
+- Master **system design**
+- Strengthen **DSA for interviews**
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtharvaKedar123&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaKedar123&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaKedar123&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AtharvaKedar123/AtharvaKedar123/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AtharvaKedar123&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:atharva.dkedar@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="YOUR_LINKEDIN_LINK_HERE">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/atharva-kedar-963439259/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="YOUR_PORTFOLIO_LINK_HERE">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+  <a href="https://raw.githubusercontent.com/AtharvaKedar123/atharvakedar123.github.io/main/Atharva_Kedar_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+</p>
