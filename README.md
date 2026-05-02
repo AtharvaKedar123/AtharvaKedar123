@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-### Real-Time Stock Trading Simulator 
+### 📈 [Real-Time Stock Trading Simulator](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
 + Developed a real-time stock trading simulator using Java and OOP principles.
 + Simulated market fluctuations, order execution, and portfolio tracking.
 + Implemented core concepts like encapsulation, abstraction, and modular design.
