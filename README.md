@@ -22,11 +22,8 @@
 
 
 ## ⚡ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws,powerbi&perline=8" />
-</p>
-<p align="center">
 
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
