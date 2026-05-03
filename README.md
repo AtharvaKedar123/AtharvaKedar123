@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,spring,kafka,git,github,linux,docker,postman,aws" /><br>
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
   <img src="https://img.icons8.com/color/48/nginx.png" title="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
 </p>
 
