@@ -23,10 +23,7 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws,powerbi&perline=8" 
-    title="Python, Java, MySQL, PostgreSQL, MongoDB, Flask, FastAPI, Django, Redis, Node.js, Spring Boot, Kafka, Git, GitHub, Linux, Docker, Postman, AWS, Power BI"
-  />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws,powerbi&perline=8" />
 </p>
 
 ## 🚀 Featured Projects
