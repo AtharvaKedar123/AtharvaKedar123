@@ -27,7 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img 
+  src="https://img.icons8.com/color/48/power-bi.png" 
+  title="Power BI"
+  style="background-color:#1f2937; padding:10px; border-radius:12px;"
+/>
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" title="Data Analytics"/>
 </p>
 
