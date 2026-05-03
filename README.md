@@ -23,34 +23,8 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws&perline=8" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
 </p>
 ## 🚀 Featured Projects
 
