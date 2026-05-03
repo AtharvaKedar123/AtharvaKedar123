@@ -23,13 +23,12 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <!-- Main icons -->
   <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws&perline=9" />
 </p>
 
 <p align="center">
-  <!-- Last row aligned -->
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" title="Data Analytics"/>
 </p>
 
 ## 🚀 Featured Projects
