@@ -22,21 +22,14 @@
 
 
 ## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws&perline=9" />
-</p>
-
-<p align="center">
-  <img 
-  src="https://img.icons8.com/color/48/power-bi.png" 
-  title="Power BI"
-  style="background-color:#1f2937; padding:10px; border-radius:12px;"
-/>
-  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
+<p align="center" style="line-height: 1.2;">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,django,redis" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,kafka,git,github,linux,docker,postman,aws" /><br>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/nginx.png" title="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=graphql" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
 </p>
-
 ## 🚀 Featured Projects
 
 ### 🔥 [Real-Time Stock Trading Simulator](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
