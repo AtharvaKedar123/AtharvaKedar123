@@ -24,8 +24,12 @@
 ## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws&perline=8" />
+</p>
+
+<p align="center">
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" title="Power BI"/>
 </p>
+
 ## 🚀 Featured Projects
 
 ### 🔥 [Real-Time Stock Trading Simulator](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
