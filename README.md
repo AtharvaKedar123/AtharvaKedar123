@@ -34,7 +34,7 @@
 />
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
   <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
-  <img src="https://skillicons.dev/icons?i=graphql" title="Tableau"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
 </p>
 
 ## 🚀 Featured Projects
