@@ -25,7 +25,11 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws,powerbi&perline=8" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge" title="System Design" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-2563EB?style=for-the-badge" title="Backend Engineering" />
+  <img src="https://img.shields.io/badge/RealTime%20Systems-DC2626?style=for-the-badge" title="Real-Time Systems" />
+</p>
 
 ## 🚀 Featured Projects
 
