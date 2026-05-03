@@ -22,13 +22,39 @@
 
 
 ## ⚡ Tech Stack
-<p align="center" style="line-height: 1.2;">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,django,redis" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,kafka,git,github,linux,docker,postman,aws" /><br>
+<p align="center" style="line-height: 1;">
+  
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+
+  <br>
+
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+
+  <br>
+
+  <!-- Row 3 -->
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
   <img src="https://img.icons8.com/color/48/nginx.png" title="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
+
 </p>
 
 ## 🚀 Featured Projects
