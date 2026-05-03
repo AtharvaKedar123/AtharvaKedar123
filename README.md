@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=graphql" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau"/>
 </p>
+
 ## 🚀 Featured Projects
 
 ### 🔥 [Real-Time Stock Trading Simulator](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
