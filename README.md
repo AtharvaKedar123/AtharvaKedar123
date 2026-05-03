@@ -23,29 +23,35 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=django" title="Django" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
 </p>
 
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" title="Power BI"/>
+</p>
 ## 🚀 Featured Projects
 
 ### 🔥 [Real-Time Stock Trading Simulator](https://github.com/AtharvaKedar123/Java_Programming_Projects_OOP_Edition/tree/master/Real_Time_Stock_Trading_Simulator_OOP)
