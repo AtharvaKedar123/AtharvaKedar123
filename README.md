@@ -24,9 +24,6 @@
 ## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,flask,fastapi,django,redis,nodejs,spring,kafka,git,github,linux,docker,postman,aws&perline=8" />
-</p>
-
-<p align="center">
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" title="Power BI"/>
 </p>
 
