@@ -33,6 +33,8 @@
   style="background-color:#1f2937; padding:10px; border-radius:12px;"
 />
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" title="Data Analytics"/>
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
 </p>
 
 ## 🚀 Featured Projects
