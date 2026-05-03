@@ -34,6 +34,7 @@
 />
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
   <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
+  <img src="https://skillicons.dev/icons?i=graphql" title="Tableau"/>
 </p>
 
 ## 🚀 Featured Projects
